@@ -6,7 +6,11 @@
 
 # Application identity
 APP_NAME = "CareSync"
+<<<<<<< HEAD
 APP_VERSION = "1.1.0"
+=======
+APP_VERSION = "1.0.1"
+>>>>>>> origin/main
 APP_DESCRIPTION = "Patient portal for hospital and clinic management"
 
 
@@ -29,4 +33,9 @@ ROLE_BILLING = "billing_staff"
 # Pagination settings
 # Controls how many records are returned per page in list views.
 DEFAULT_PAGE_SIZE = 20
+<<<<<<< HEAD
 MAX_PAGE_SIZE = 100
+=======
+MAX_PAGE_SIZE = 100
+
+>>>>>>> origin/main
